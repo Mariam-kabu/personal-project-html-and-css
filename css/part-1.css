@@ -1,0 +1,62 @@
+header {
+    border-bottom: 1px solid #C9C9C9;
+    padding-top: 13px;
+    padding-bottom: 12px;
+}
+.max-width {
+    max-width: 1158px;
+    width: 100%;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact-size {
+    width: 399px;
+}
+.muli {
+    font-family: 'Muli';
+}
+.font-style {
+    font-size: 15px;
+    line-height: 23px;
+    color: #000;
+}
+.mail {
+    margin-right: 22px;
+}
+.mail + a {
+    letter-spacing: -0.3px;
+}
+.tel {
+    margin-right: 13px;
+}
+.icon-box.flex {
+    align-items: baseline;
+}
+.icon-li:first-child {
+    font-size: 14px;
+}
+.icon-li:nth-child(2) {
+    padding-left: 21px;
+    font-size: 14px;
+}
+.icon-li:nth-child(3) {
+    padding-left: 19px;
+    font-size: 16px;
+}
+.icon-li:nth-child(3) .icon-font {
+    color: #919191;
+}
+.icon-li:last-child  {
+    padding-left: 22px;
+}
+.icon-font {
+    color: #707070;
+}
+.icon-li:nth-child(3) .icon-font:hover,
+.icon-font:hover {
+    color: #EE3364;
+}

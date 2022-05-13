@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Muli';
+    src: url('../fonts/Muli.eot');
+    src: url('../fonts/Muli.woff2') format('woff2'),
+        url('../fonts/Muli.woff') format('woff'),
+        url('../fonts/Muli.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BwModelica';
+    src: url('../fonts/BwModelica-Medium.eot');
+    src: url('../fonts/BwModelica-Medium.woff2') format('woff2'),
+        url('../fonts/BwModelica-Medium.woff') format('woff'),
+        url('../fonts/BwModelica-Medium.otf') format('truetype'),
+}
