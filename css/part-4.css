@@ -1,6 +1,6 @@
 .h2-font {
     font-size: 24px;
-    line-height: 11px;
+    line-height: 13px;
     color: #2F2933;
     letter-spacing: -.07px;
 }
@@ -11,7 +11,7 @@
     letter-spacing: -.46px;
 }
 .margin-bt {
-    margin-bottom: 18px;
+    margin-bottom: 17px;
 }
 .ulist-margin {
     margin-bottom: 23px;
@@ -22,7 +22,7 @@
     line-height: 40px;
 }
 .list-font >i {
-    margin-right: 11px;
+    margin-right: 12px;
 }
 .download-btn {
     width: 220px;

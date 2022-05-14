@@ -1,5 +1,5 @@
 main {
-    max-width: 1198px;
+    max-width: 1200px;
     width: 100%;
     padding: 0 14px;
     margin: 115px auto 86px auto;
@@ -9,7 +9,7 @@ main {
 }
 .gery-cube {
     width: 100%;
-    height: 474px;
+    height: 473px;
     background-color: #9E9E9E;
     margin-bottom: 28px;
 }
@@ -46,7 +46,7 @@ main {
     font-size: 17px;
     line-height: 30px;
     color: #666666;
-    letter-spacing: -.4px;
+    letter-spacing: -.39px;
 }
 .par1-magrin {
     margin-bottom: 45px;
