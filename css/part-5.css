@@ -46,17 +46,3 @@
 .soc-box >i {
     color: #fff;
 }
-.note {
-    font-size: 14px;
-    line-height: 30px;
-}
-.note >div p {
-    color: #EE3364;
-    margin-left: 16px;
-    letter-spacing: -.1px;
-
-}
-.note >span {
-    color: #999999;
-    letter-spacing: -.1px;
-}

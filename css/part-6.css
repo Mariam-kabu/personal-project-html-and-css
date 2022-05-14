@@ -1,0 +1,44 @@
+.note {
+    font-size: 14px;
+    line-height: 30px;
+}
+.note >div p {
+    color: #EE3364;
+    margin-left: 16px;
+    letter-spacing: -.1px;
+
+}
+.note >span {
+    color: #999999;
+    letter-spacing: -.1px;
+}
+.grey-line {
+    margin: 34px 0;
+    width: 772px;
+    height: 5px;
+    background-color: #ECECEC;
+}
+.grey-circle {
+    margin: 0 0 18px 2px;
+    width: 130px;
+    height: 130px;
+    background-color: #ECECEC;
+    border-radius: 50%;
+}
+.profile-info {
+    width: 638px;
+    height: 160px;
+    padding-left: 27px;
+}
+.prof {
+    font-size: 24px;
+    line-height: 32px;
+    color: #EE3364;
+    margin-bottom: 10px;
+}
+.prof-text {
+    font-size: 14px;
+    line-height: 30px;
+    color: #666666;
+    letter-spacing: -.585px;
+}
