@@ -36,6 +36,7 @@ main {
     font-family: 'Glacial bold';
 }
 .article-header {
+    color: #2F2933;
     width: 554px;
     font-size: 30px;
     line-height: 35px;
@@ -46,6 +47,8 @@ main {
     line-height: 30px;
     color: #666666;
     letter-spacing: -.4px;
+}
+.par1-magrin {
     margin-bottom: 45px;
 }
 .par2-font {
@@ -59,10 +62,12 @@ main {
 }
 .border {
     margin-top: 13px;
-    float: left;
     height: 103px;
     width: 3px;
     background-color: #EE3364;
+}
+.float-left {
+    float: left;
 }
 .par2-font::first-letter {
     padding-left: 7px;
