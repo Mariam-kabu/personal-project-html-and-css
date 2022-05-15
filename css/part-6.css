@@ -1,6 +1,10 @@
+.main-content >.width {
+    width: 800px;
+}
 .note {
     font-size: 14px;
     line-height: 30px;
+    padding-right: 27px;
 }
 .note >div p {
     color: #EE3364;
@@ -18,6 +22,10 @@
     height: 5px;
     background-color: #ECECEC;
 }
+.profile {
+    width: 100%;
+    margin-bottom: 17px;
+}
 .grey-circle {
     margin: 0 0 18px 2px;
     width: 130px;
@@ -28,7 +36,6 @@
 .profile-info {
     width: 638px;
     height: 160px;
-    padding-left: 27px;
 }
 .prof {
     font-size: 24px;
@@ -40,5 +47,5 @@
     font-size: 14px;
     line-height: 30px;
     color: #666666;
-    letter-spacing: -.585px;
+    letter-spacing: -.33px;
 }
