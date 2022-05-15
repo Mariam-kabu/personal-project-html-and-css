@@ -57,6 +57,7 @@
     letter-spacing: .5px;
 }
 .wide {
+    margin-bottom: 53px;
     width: 100%;
     height: 120px;
 }
