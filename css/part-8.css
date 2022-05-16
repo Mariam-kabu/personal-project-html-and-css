@@ -124,6 +124,7 @@ pre >i:first-child {
 .comment-box:nth-child(4) .comment {
     margin-bottom: 14px;
     letter-spacing: -1.3px;
+    padding-left: 2px;
 }
 .comment-box:nth-child(3) .name-width,
 .comment-box:nth-child(4) .name-width {
@@ -147,7 +148,8 @@ pre >i:first-child {
 }
 .comment-box:nth-child(5) .comment,
 .comment-box:nth-child(6) .comment {
-    letter-spacing: -1.3px;
+    letter-spacing: -1.4px;
+    padding-left: 3px;
 }
 .comment-box:nth-child(6) .name-width {
     margin-bottom: 6px;

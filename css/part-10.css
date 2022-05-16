@@ -1,0 +1,148 @@
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+footer {
+    background-color: #202020;
+    padding-top: 63px;
+}
+.footer {
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 262px 271px 345px 304px;
+    padding-bottom: 25px;
+}
+.footer-header {
+    font-size: 35px;
+    line-height: 55px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+.footer-header >span {
+    color: #EE3364;
+}
+.footer-par {
+    font-size: 14px;
+    line-height: 26px;
+    color: #DFDFDF;
+    margin-bottom: 13px;
+    letter-spacing: -.05px;
+}
+.about-us {
+    font-size: 16px;
+    line-height: 30px;
+    color: #909090;
+    letter-spacing: -.5px;
+}
+.footer >div:nth-child(2) {
+    padding-left: 37px;
+    padding-top: 2px;
+}
+.footer-subheader {
+    font-size: 23px;
+    line-height: 30px;
+    color: #fff;
+    margin-bottom: 39px;
+    letter-spacing: -.8px;
+}
+.sub-par {
+    font-size: 15px;
+    line-height: 26px;
+    color: #7F7F7F;
+    letter-spacing: -.4px;
+    margin-bottom: 16px;
+}
+.sub-par >p {
+    font-size: 17px;
+    line-height: 20px;
+    color: #fff;
+    letter-spacing: -.1px;
+    margin-bottom: 9px;
+}
+.sub-par >span {
+    font-size: 12px;
+    line-height: 14px;
+    color: #A5A5A5;
+}
+.sub-par i {
+    font-size: 15px;
+    color: #FAB702;
+    margin-right: 5px;
+}
+.footer >div:nth-child(3) {
+    padding-top: 2px;
+    padding-left: 66px;
+}
+.footer >div:nth-child(3) .footer-subheader {
+    margin-bottom: 31px;
+    letter-spacing: -.1px;
+}
+.framework {
+    line-height: 28px;
+    border-bottom: 1px solid #E7E7E7;
+    padding-bottom: 5px;
+    margin-bottom: 6px;
+}
+.subpar-font {
+    font-size: 15px;
+    color: #ffff;
+}
+.framework-span {
+    font-size: 12px;
+}
+.twitter-date {
+    width: 122px;
+    height: 16px;
+    font-size: 13px;
+    line-height: 26px;
+    color: #A5A5A5;
+}
+.footer >div:last-child {
+    padding-top: 2px;
+    padding-left: 17px;
+}
+.footer >div:last-child .footer-subheader {
+    letter-spacing: -.1px;
+    margin-bottom: 21px;
+}
+.footer >div:last-child .sub-par {
+    padding-left: 3px;
+    margin-bottom: 5px;
+}
+.contact-links {
+    padding-left: 3px;
+    margin-bottom: 36px;
+}
+.contact-links >a {
+    padding-left: 7px;
+    letter-spacing: 0;
+}
+.icons {
+    width: 151px;
+}
+.icons >div {
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    justify-content: center;
+}
+.icons >div:hover {
+    background-color: #1EB7EA;
+}
+.center {
+    width: 100%;
+    height: 75px;
+    justify-content: center;
+    background-color: #161616;
+    margin: unset;
+}
+.center >span {
+    padding-right: 75px;
+    font-size: 15px;
+    letter-spacing: .1px;
+}

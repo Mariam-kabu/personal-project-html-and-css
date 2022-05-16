@@ -21,6 +21,9 @@
 .grid-child:nth-child(2) {
     padding-bottom: 22px;
 }
+.grid-child:nth-child(3) {
+    padding-bottom: 12px;
+}
 .grid-child:last-child {
     padding-top: 6px;
     padding-bottom: 25px;

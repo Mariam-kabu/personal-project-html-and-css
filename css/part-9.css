@@ -27,6 +27,7 @@ textarea {
     width: 800px;
     height: 213px;
     margin-bottom: 10px;
+    resize: unset;
 }
 .submit {
     width: 800px;
@@ -52,4 +53,8 @@ label {
     color: #666666;
     margin-left: 16px;
     letter-spacing: -.3px;
+}
+input:focus,
+textarea:focus {
+    outline: none;
 }
