@@ -2,9 +2,10 @@
     width: 100%;
     border: 1px solid #F1F1F1;
     box-shadow: 0 0 12px 8px #00000005;
+    margin-bottom: 49px;
 }
 .sidebar-content >section:first-child {
-    padding: 38px 0 32px 38px;
+    padding: 38px 0 33px 38px;
 }
 .sidebar-h {
     width: 280px;
@@ -27,7 +28,7 @@
     padding-top: 10px;
     padding-bottom: 11px;
 }
-.sidebar-content >section:first-child p:first-child {
-    padding-top: 10px;
-    padding-bottom: 11px;
+.sidebar-content >section:first-child .light-grey {
+    padding-top: 0;
+    padding-bottom: 13px;
 }
