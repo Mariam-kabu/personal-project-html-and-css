@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.glacial {
+    font-family: 'Glacial';
+}
+.glacial-bold {
+    font-family: 'Glacial bold';
+}
+.main-content >.width {
+    max-width: 800px;
+}
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+.cambay {
+    font-family: 'Cambay', sans-serif;
+}

@@ -10,11 +10,6 @@ header > div:first-child {
     width: 100%;
     margin: 0 auto;
 }
-.flex {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
 .contact-size {
     width: 399px;
 }
