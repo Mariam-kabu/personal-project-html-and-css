@@ -1,0 +1,36 @@
+.sidebar-content >section:nth-child(3) {
+    padding: 38px 0 0 31px;
+}
+.sidebar-content >section:nth-child(3) h3 {
+    padding-left: 7px;
+}
+.sidebar-content >section:nth-child(3) div {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 45px;
+}
+.sidebar-content >section:nth-child(3) p {
+    padding: 10px 19px;
+    border: 1px solid #F0F4F7;
+    border-radius: 17.5px;
+    margin: 6px 3px;
+    font-size: 13px;
+    color: #8799A3;
+}
+.sidebar-content >section:nth-child(3) p:first-child,
+.sidebar-content >section:nth-child(3) p:nth-child(2),
+.sidebar-content >section:nth-child(3) p:nth-child(3) {
+    margin-top: unset;
+}
+
+.sidebar-content >section:nth-child(3) p:first-child,
+.sidebar-content >section:nth-child(3) p:nth-child(4),
+.sidebar-content >section:nth-child(3) p:nth-child(6),
+.sidebar-content >section:nth-child(3) p:nth-child(8) {
+    margin-left: unset;
+}
+.sidebar-content >section:nth-child(3) p:hover {
+    background-color: #EE3364;
+    color: #FFFFFF;
+}
