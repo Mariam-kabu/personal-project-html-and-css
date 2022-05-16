@@ -8,7 +8,7 @@ main {
     grid-template-columns: 1fr 359px;
 }
 .main-content >section {
-    width: 772px;
+    max-width: 772px;
 }
 .gery-cube {
     width: 100%;

@@ -1,5 +1,5 @@
 .main-content >.width {
-    width: 800px;
+    max-width: 800px;
 }
 .note {
     font-size: 14px;

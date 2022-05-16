@@ -1,0 +1,54 @@
+.sidebar-content >section:nth-child(4) {
+    padding: 47px 0 0 35px;
+}
+.sidebar-content >section:nth-child(4) h3 {
+    font-size: 40px;
+    line-height: 55px;
+    color: #0A0909;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.sidebar-content >section:nth-child(4) h3 >span {
+    color: #EE3364;
+}
+.sidebar-content >section:nth-child(4) p {
+    font-size: 15px;
+    line-height: 26px;
+    color: #636363;
+    padding-left: 2px;
+    letter-spacing: .14px;
+    margin-bottom: 19px;
+}
+.sidebar-content >section:nth-child(4) ul {
+    padding-left: 6px;
+}
+.sidebar-content >section:nth-child(4) img {
+    margin-right: 24px;
+}
+.sidebar-content >section:nth-child(4) a {
+    font-size: 14px;
+    line-height: 30px;
+    color: #2D2D2D;
+}
+.sidebar-content >section:nth-child(4) li:first-child a {
+    letter-spacing: .6px;
+}
+.sidebar-content >section:nth-child(4) li:nth-child(2) img {
+    margin-right: 21px;
+}
+.sidebar-content >section:nth-child(4) li:nth-child(2) a {
+    letter-spacing: .5px;
+}
+.sidebar-content >section:nth-child(4) li:nth-child(3) img {
+    margin-right: 22px;
+}
+.sidebar-content >section:nth-child(4) li:last-child a {
+    letter-spacing: .4px;
+}
+.new-size {
+    margin: 19px 0 39px 3px;
+    padding-right: 11px;
+    letter-spacing: .9px;
+    width: 140px;
+    height: 40px;
+}
